@@ -1,4 +1,5 @@
-
+// this program calculates the total amount of
+// bank transactions from a single csv file.
 package bankst;
 
 // import the related classes and methods
